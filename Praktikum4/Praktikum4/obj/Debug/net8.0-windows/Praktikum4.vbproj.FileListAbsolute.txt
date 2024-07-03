@@ -1,0 +1,16 @@
+E:\VB.NET2022\Praktikum 4\Praktikum4\Praktikum4\obj\Debug\net8.0-windows\Praktikum4.vbproj.GenerateResource.cache
+E:\VB.NET2022\Praktikum 4\Praktikum4\Praktikum4\obj\Debug\net8.0-windows\Praktikum4.GeneratedMSBuildEditorConfig.editorconfig
+E:\VB.NET2022\Praktikum 4\Praktikum4\Praktikum4\obj\Debug\net8.0-windows\Praktikum4.AssemblyInfoInputs.cache
+E:\VB.NET2022\Praktikum 4\Praktikum4\Praktikum4\obj\Debug\net8.0-windows\Praktikum4.AssemblyInfo.vb
+E:\VB.NET2022\Praktikum 4\Praktikum4\Praktikum4\obj\Debug\net8.0-windows\Praktikum4.vbproj.CoreCompileInputs.cache
+E:\VB.NET2022\Praktikum 4\Praktikum4\Praktikum4\bin\Debug\net8.0-windows\Praktikum4.exe
+E:\VB.NET2022\Praktikum 4\Praktikum4\Praktikum4\bin\Debug\net8.0-windows\Praktikum4.deps.json
+E:\VB.NET2022\Praktikum 4\Praktikum4\Praktikum4\bin\Debug\net8.0-windows\Praktikum4.runtimeconfig.json
+E:\VB.NET2022\Praktikum 4\Praktikum4\Praktikum4\bin\Debug\net8.0-windows\Praktikum4.dll
+E:\VB.NET2022\Praktikum 4\Praktikum4\Praktikum4\bin\Debug\net8.0-windows\Praktikum4.pdb
+E:\VB.NET2022\Praktikum 4\Praktikum4\Praktikum4\obj\Debug\net8.0-windows\Praktikum4.Form1.resources
+E:\VB.NET2022\Praktikum 4\Praktikum4\Praktikum4\obj\Debug\net8.0-windows\Praktikum4.dll
+E:\VB.NET2022\Praktikum 4\Praktikum4\Praktikum4\obj\Debug\net8.0-windows\refint\Praktikum4.dll
+E:\VB.NET2022\Praktikum 4\Praktikum4\Praktikum4\obj\Debug\net8.0-windows\Praktikum4.pdb
+E:\VB.NET2022\Praktikum 4\Praktikum4\Praktikum4\obj\Debug\net8.0-windows\Praktikum4.genruntimeconfig.cache
+E:\VB.NET2022\Praktikum 4\Praktikum4\Praktikum4\obj\Debug\net8.0-windows\ref\Praktikum4.dll
